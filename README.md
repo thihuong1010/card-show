@@ -2,7 +2,7 @@
 Huong Nguyen
 
 - Build React app with homepage show user information in card.
-- Using vanilla CSS to style: responsive web design. 
+- Using vanilla CSS to style and build responsive web design. 
 - Following the concepts of requirements: 
   + Functional React components, 
   + useState(): store data from API, 
