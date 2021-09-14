@@ -1,3 +1,10 @@
+# Integrify - pre-assignment
+Huong Nguyen
+
+- Build React app with homepage show user information in card.
+- Fetchinf API Data with 'useEffect()' ReactHook.
+- Using vanilla CSS to style: responsive web design. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
