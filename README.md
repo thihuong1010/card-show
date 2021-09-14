@@ -2,8 +2,14 @@
 Huong Nguyen
 
 - Build React app with homepage show user information in card.
-- Fetchinf API Data with 'useEffect()' ReactHook.
 - Using vanilla CSS to style: responsive web design. 
+- Following the concepts of requirements: 
+  + Functional React components, 
+  + useState(): store data from API, 
+  + useEffect(): fetch data, 
+  + useParams(): navigation to card details. 
+- Link deploy to Netlify: https://614113dcd68fa70d434d8ec0--confident-wescoff-e47042.netlify.app
+
 
 # Getting Started with Create React App
 
