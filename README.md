@@ -1,4 +1,3 @@
-# Integrify - pre-assignment
 Huong Nguyen
 
 - Build React app with homepage show user information in card.
